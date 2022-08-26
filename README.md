@@ -7,3 +7,4 @@ A Demo of Drill 2.0 that pulls data from various sources (PCAP Files, APIs etc..
 * Upload the results into a google sheet
 * Write a script that updates the google sheet when the query is run again
 * Write a condition that if a costom colum is added in the sheet (e.g. for comments etc..) that they update factors that in.
+* Build an electron app that is a webview for the Drill Web API and also adds a file upload feature for 1) PCAP files and 2) JSON files etc... 3) a step by step guide for integration with APIs, excel, Google sheets etc...
